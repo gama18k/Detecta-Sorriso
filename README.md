@@ -29,4 +29,4 @@ Este projeto utiliza a biblioteca **OpenCV** para detectar rostos e identificar 
    ```
 3. Execute o script Python:
    ```bash
-   python nome_do_arquivo.py
+   python app.py
